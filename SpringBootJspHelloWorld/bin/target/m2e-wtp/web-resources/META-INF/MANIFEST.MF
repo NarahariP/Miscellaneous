@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-jsp-helloworld
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Narahari
+Implementation-Vendor-Id: com.hellokoding.springboot
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot-jsp-helloworld
+Created-By: Maven Integration for Eclipse
+
